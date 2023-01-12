@@ -1,0 +1,26 @@
+   ------------------------------------------------------------------
+  | Welcome to ROOT 6.26/06                        https://root.cern |
+  | (c) 1995-2021, The ROOT Team; conception: R. Brun, F. Rademakers |
+  | Built for linuxx8664gcc on Jul 28 2022, 18:08:51                 |
+  | From tags/v6-26-06@v6-26-06                                      |
+  | With c++ (Ubuntu 7.5.0-3ubuntu1~18.04) 7.5.0                     |
+  | Try '.help', '.demo', '.license', '.credits', '.quit'/'.q'       |
+   ------------------------------------------------------------------
+
+
+Processing part2_2.C...
+ FCN=0.743785 FROM MIGRAD    STATUS=CONVERGED      75 CALLS          76 TOTAL
+                     EDM=6.94457e-08    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           4.12910e+01   5.58562e+00   2.71256e-03   5.95888e-05
+   2  p1           1.21497e+01   1.84205e+00   8.17605e-04   2.60111e-04
+   3  p2           1.05015e+01   1.64913e+00   5.97208e-04   3.55474e-04
+ FCN=36.5483 FROM MIGRAD    STATUS=CONVERGED      70 CALLS          71 TOTAL
+                     EDM=8.55471e-09    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           6.03654e+02   7.83747e+01   2.32274e-01  -6.23911e-07
+   2  p1           1.86640e+01   5.31074e-01   1.57413e-03   2.41366e-04
+Chi1: 0.371893
+Chi2: 12.1828

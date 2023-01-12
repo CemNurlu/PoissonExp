@@ -1,0 +1,61 @@
+   ------------------------------------------------------------------
+  | Welcome to ROOT 6.26/06                        https://root.cern |
+  | (c) 1995-2021, The ROOT Team; conception: R. Brun, F. Rademakers |
+  | Built for linuxx8664gcc on Jul 28 2022, 18:08:51                 |
+  | From tags/v6-26-06@v6-26-06                                      |
+  | With c++ (Ubuntu 7.5.0-3ubuntu1~18.04) 7.5.0                     |
+  | Try '.help', '.demo', '.license', '.credits', '.quit'/'.q'       |
+   ------------------------------------------------------------------
+
+
+Processing c2.C...
+Mean: 102.535
+Standard deviation: 8.97506
+ FCN=2.90596 FROM MIGRAD    STATUS=CONVERGED      61 CALLS          62 TOTAL
+                     EDM=3.33041e-07    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           2.03802e+01   2.64761e+00   2.00688e-03   3.10026e-04
+   2  p1           1.03010e+02   1.04146e+00   1.00496e-03   9.35610e-05
+   3  p2           9.57415e+00   8.71985e-01   6.61170e-04   1.15171e-03
+ FCN=3.46466 FROM MIGRAD    STATUS=CONVERGED      44 CALLS          45 TOTAL
+                     EDM=3.70661e-09    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           4.90240e+02   5.01678e+01   5.17457e-02   8.47556e-07
+   2  p1           1.03084e+02   1.04493e+00   1.07761e-03  -7.25252e-05
+Mean: 102.535
+Standard deviation: 8.97506
+ FCN=2.90596 FROM MIGRAD    STATUS=CONVERGED      61 CALLS          62 TOTAL
+                     EDM=3.33041e-07    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           2.03802e+01   2.64761e+00   2.00688e-03   3.10026e-04
+   2  p1           1.03010e+02   1.04146e+00   1.00496e-03   9.35610e-05
+   3  p2           9.57415e+00   8.71985e-01   6.61170e-04   1.15171e-03
+chig: 0.484327
+ FCN=3.46466 FROM MIGRAD    STATUS=CONVERGED      44 CALLS          45 TOTAL
+                     EDM=3.70661e-09    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           4.90240e+02   5.01678e+01   5.17457e-02   8.47556e-07
+   2  p1           1.03084e+02   1.04493e+00   1.07761e-03  -7.25252e-05
+Mean: 102.535
+Standard deviation: 8.97506
+Mean: 102.535
+Standard deviation: 8.97506
+ FCN=2.90596 FROM MIGRAD    STATUS=CONVERGED      61 CALLS          62 TOTAL
+                     EDM=3.33041e-07    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           2.03802e+01   2.64761e+00   2.00688e-03   3.10026e-04
+   2  p1           1.03010e+02   1.04146e+00   1.00496e-03   9.35610e-05
+   3  p2           9.57415e+00   8.71985e-01   6.61170e-04   1.15171e-03
+Chi1: 0.484327
+ FCN=3.46466 FROM MIGRAD    STATUS=CONVERGED      44 CALLS          45 TOTAL
+                     EDM=3.70661e-09    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           4.90240e+02   5.01678e+01   5.17457e-02   8.47556e-07
+   2  p1           1.03084e+02   1.04493e+00   1.07761e-03  -7.25252e-05
+Chi1: 0.494952
